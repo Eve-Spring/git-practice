@@ -4,5 +4,7 @@ public class project {
 
 
         System.out.println("veni, vidi, vici");
+
+        System.out.println("Second info");
     }
 }
